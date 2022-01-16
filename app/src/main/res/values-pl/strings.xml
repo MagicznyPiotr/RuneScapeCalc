@@ -15,7 +15,7 @@
     <string name="txtNewExp">Cel:</string>
     <string name="btnCalc">Oblicz</string>
     <string name="needExp">Potrzebny Exp:</string>
-    <string name="NeedLvl">Potrzebny LVL:</string>
+    <string name="needLVL">Potrzebny LVL:</string>
     <string name="needToLVL">Potrzeba:</string>
 
 </resources>

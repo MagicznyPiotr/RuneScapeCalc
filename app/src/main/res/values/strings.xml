@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RuneScapeCalc</string>
+    <string name="btnStart">Start</string>
+    <string name="txtVersion">Version:</string>
+    <string name="txtAppName">Skill calculator for RuneScape</string>
+    <string name="ActivityToSmithCalculator">Smithing Calculator</string>
+    <string name="ActivityToAuthor">Author</string>
+    <string name="txtAboutAuthorTitle">About Author</string>
+    <string name="txtName">Name:</string>
+    <string name="txtSurname">Surname:</string>
+    <string name="txtAge">Age:</string>
+    <string name="txtFavoriteGame">Favorite game:</string>
+    <string name="back">Back</string>
+    <string name="change">Change</string>
+    <string name="txtOldExp">Current Exp:</string>
+    <string name="txtNewExp">Target Exp:</string>
+    <string name="btnCalc">Submit</string>
+    <string name="needExp">Need Exp:</string>
+    <string name="NeedLvl">Need LVL:</string>
+    <string name="giveExp"> Exp/bar:</string>
+    <string name="needToLVL">Need:</string>
+</resources>

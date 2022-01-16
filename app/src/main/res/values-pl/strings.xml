@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtVersion">Wersja:</string>
+    <string name="txtAppName">Kalkulator Skilli dla RuneScape</string>
+    <string name="ActivityToSmithCalculator">Kalkulator Smithingu</string>
+    <string name="ActivityToAuthor">Autor</string>
+    <string name="txtAboutAuthorTitle">O Autorze</string>
+    <string name="txtName">Imię:</string>
+    <string name="txtSurname">Nazwisko:</string>
+    <string name="txtAge">Wiek:</string>
+    <string name="txtFavoriteGame">Ulubiona gra:</string>
+    <string name="back">Wróć</string>
+    <string name="change">Zmień</string>
+    <string name="txtOldExp">Aktualny Exp:</string>
+    <string name="txtNewExp">Cel:</string>
+    <string name="btnCalc">Oblicz</string>
+    <string name="needExp">Potrzebny Exp:</string>
+    <string name="NeedLvl">Potrzebny LVL:</string>
+    <string name="needToLVL">Potrzeba:</string>
+
+</resources>
